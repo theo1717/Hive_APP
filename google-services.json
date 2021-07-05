@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "971544374064",
+    "firebase_url": "https://hive-mesh.firebaseio.com",
+    "project_id": "hive-mesh",
+    "storage_bucket": "hive-mesh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971544374064:android:6dc33f6a5e51531d1bb6f5",
+        "android_client_info": {
+          "package_name": "com.hive.hive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971544374064-2psh4ac70l5cj96sto0290isgaf1kuc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFFnfWWk2uoBpY7jfjVaG24LOHQ_vHOHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971544374064-2psh4ac70l5cj96sto0290isgaf1kuc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
